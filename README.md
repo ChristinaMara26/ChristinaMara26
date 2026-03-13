@@ -1,4 +1,4 @@
-##👋 Olá, eu sou a Christina!
+👋 Olá, eu sou a Christina!
 
 ⚡Estudante de Desenvolvimento de Sistemas
 
